@@ -1,0 +1,34 @@
+
+Pre-Requisite Readings
+----------------------
+
+### Equipment
+
+We plan to provide a personal server to each student for use during the class. The server will contain all of the applications and materials needed, including R and RStudio. All you will need is a laptop with a web browser. For those of you that need to use their work provided laptops for the class, please ensure that the web browser in it will not be prevented from navigating to Amazon AWS, which is where the servers will be set up. Helpful reading
+
+Some have asked for material that would be useful to review prior to the class. The following is a compilation of subjects would be great if you are familiar with already by the time the class begins, but it is not a requirement that you study or review them.
+
+It was great to see that most respondents of the survey are daily dplyr and ggplot2 users. For those who are not, it would be a good idea the following chapters of the R for Data Science book:
+
+-   Data Transformation - <http://r4ds.had.co.nz/transform.html21>
+-   Relational Data - <http://r4ds.had.co.nz/relational-data.html13>
+-   Data visualization - <http://r4ds.had.co.nz/data-visualisation.html11>
+
+For database background, please review the articles in the following links:
+
+-   Database Best Practices - <http://db.rstudio.com/best-practices/28>
+-   Databases using dplyr - <http://db.rstudio.com/dplyr/15>
+
+For spark background, please review the following:
+
+-   sparklyr’s webiste home page: <http://spark.rstudio.com/18>
+-   Using dplyr with sparklyr: <http://spark.rstudio.com/dplyr/9>
+-   Machine Learning: <http://spark.rstudio.com/mlib/12>
+-   Deployment options: <http://spark.rstudio.com/deployment/12>
+
+For those who are not to experienced with Shiny, please review the articles in the following links:
+
+-   First Shiny app - <http://shiny.rstudio.com/articles/#first-app7>
+-   Dashboards: <http://shiny.rstudio.com/articles/dashboards.html6>
+
+Thank you for choosing this class, and I look forward to meeting you!
